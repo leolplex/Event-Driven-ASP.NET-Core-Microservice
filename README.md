@@ -1,5 +1,3 @@
-﻿# Event-Driven-ASP.NET-Core-Microservice
-
 # How to Build an Event-Driven ASP.NET Core Microservice Architecture
 
 https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f
